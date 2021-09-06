@@ -9,7 +9,7 @@ namespace UppgiftB
             Console.WriteLine("Skriv ett citat på minst 5 ord");
             string citat = Console.ReadLine();
 
-            string[] ordbok = new string[99999];
+            string[] ordbok = new string[99998];
             int ordmangd = 0;
 
             for (int i = 0; i < citat.Length; i++)
