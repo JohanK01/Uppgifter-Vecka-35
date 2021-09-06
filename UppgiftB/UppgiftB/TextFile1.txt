@@ -1,0 +1,10 @@
+﻿fråga om en favoritcitat på minst fem ord
+cmd ska fråga om ett citat på minst 5 ord
+den ska spara input
+
+skriv ut antal ord citatet består av
+Den ska räkna ut hur många ord citatet innerhåller och spara
+
+
+skriv ut ett ord per rad under varandra
+

@@ -1,0 +1,6 @@
+﻿fråga om en palindrom
+Datorn ska fråga om en palidrom och spara string
+
+
+skriv ut svaret både framåt och bakåt
+testa med "sirap i paris"

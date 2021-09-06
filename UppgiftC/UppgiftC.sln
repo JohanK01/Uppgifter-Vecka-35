@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UppgiftC", "UppgiftC\UppgiftC.csproj", "{8D4C762D-1647-40FF-9350-01CCA661BB6D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "foodigen", "..\foodigen\foodigen\foodigen.csproj", "{DF817438-EAEF-4F16-B905-D6F41BA2A2F0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8D4C762D-1647-40FF-9350-01CCA661BB6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D4C762D-1647-40FF-9350-01CCA661BB6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D4C762D-1647-40FF-9350-01CCA661BB6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D4C762D-1647-40FF-9350-01CCA661BB6D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF817438-EAEF-4F16-B905-D6F41BA2A2F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF817438-EAEF-4F16-B905-D6F41BA2A2F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF817438-EAEF-4F16-B905-D6F41BA2A2F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF817438-EAEF-4F16-B905-D6F41BA2A2F0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7ABDBC54-6E77-4661-8F45-F31920F6F1B3}
+	EndGlobalSection
+EndGlobal

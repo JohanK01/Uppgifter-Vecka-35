@@ -1,0 +1,15 @@
+﻿fråga om ett tal mellan 1-10
+Fråga om ett tal mellan 1-10 och spara hur många gånger den ska loopa (int)
+
+fråga om ett tal i taget, så många gånger som matades in (loop)
+spara alla inmatade svar
+
+
+skriv ut summan
+
+
+skriv ut max och min
+
+
+skriv ut medeltalet
+medelvärdet= summan/antalet
